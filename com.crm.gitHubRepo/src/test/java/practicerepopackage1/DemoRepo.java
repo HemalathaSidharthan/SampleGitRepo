@@ -7,6 +7,7 @@ public class DemoRepo {
 	public void main()
 	{
 		System.out.println("User 1 committed first time");
+		System.out.println("User 2 committed second time");
 	}
 
 }
